@@ -1,0 +1,6 @@
+for: es una sentencia tipo bucle que corre las expresiones que esten dentro una y otra vez hasta
+que la condición declarada se cumpla.
+
+&& : operador logico que compara dos expresiones y solo si ambas son true da como resultado true.
+|| : operador logico que compara dos expresiones y si al menos una de las mismas es true da como resultado true. 
+!: operador logico que al colocarlo antes de == devuelve el valor booleano contrario al resultado de la igualdad.

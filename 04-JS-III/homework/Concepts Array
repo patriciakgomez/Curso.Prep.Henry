@@ -1,0 +1,3 @@
+ARRAY O MATRIZ: es un objeto que se  declara como una variable[], donde se pueden almacenar
+una serie de datos pudiendo recorrer, agregar o eliminar dichos datos haciendo uso de un 
+numero que indica la posición de cada uno.
